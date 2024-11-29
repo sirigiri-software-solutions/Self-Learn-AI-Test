@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Self-Learn-AI-Test/static/css/main.e6c13ad2.css",
-    "main.js": "/Self-Learn-AI-Test/static/js/main.633b9b1f.js",
+    "main.js": "/Self-Learn-AI-Test/static/js/main.77b02092.js",
     "static/js/453.ed3810f9.chunk.js": "/Self-Learn-AI-Test/static/js/453.ed3810f9.chunk.js",
     "index.html": "/Self-Learn-AI-Test/index.html",
     "main.e6c13ad2.css.map": "/Self-Learn-AI-Test/static/css/main.e6c13ad2.css.map",
-    "main.633b9b1f.js.map": "/Self-Learn-AI-Test/static/js/main.633b9b1f.js.map",
+    "main.77b02092.js.map": "/Self-Learn-AI-Test/static/js/main.77b02092.js.map",
     "453.ed3810f9.chunk.js.map": "/Self-Learn-AI-Test/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.633b9b1f.js"
+    "static/js/main.77b02092.js"
   ]
 }
